@@ -10,7 +10,8 @@
 				"classCode": "DEMO-CHEMBR",
 				"classTitle": "Chemistry B CR",
 				"classDescription": null,
-				"matchingScore": 95.0
+				"matchingScore": 95.0,
+				"match":false
 			},
 			{
 				"classId": 1791,
@@ -18,7 +19,8 @@
 				"classCode": "DEMO-CHEMAR",
 				"classTitle": "Chemistry A CR",
 				"classDescription": null,
-				"matchingScore": 92.0
+				"matchingScore": 92.0,
+				"match":false
 			},
 			{
 				"classId": 593,
@@ -26,7 +28,8 @@
 				"classCode": "AVENTA07-CHEMFULL",
 				"classTitle": "Chemistry Block*C",
 				"classDescription": null,
-				"matchingScore": 92.0
+				"matchingScore": 92.0,
+				"match":false
 			},
 			{
 				"classId": 166,
@@ -34,7 +37,8 @@
 				"classCode": "246f06",
 				"classTitle": "Chemistry Block*C",
 				"classDescription": null,
-				"matchingScore": 92.0
+				"matchingScore": 92.0,
+				"match":false
 			},
 			{
 				"classId": 258060,
@@ -42,7 +46,8 @@
 				"classCode": "CHEMx-HS-A10-Master",
 				"classTitle": "Chemistry - HS/Block",
 				"classDescription": null,
-				"matchingScore": 90.0
+				"matchingScore": 90.0,
+				"match":false
 			},
 			{
 				"classId": 258065,
@@ -50,7 +55,8 @@
 				"classCode": "CHEMb-CO-K14-Master",
 				"classTitle": "Chemistry- HS/ Part B - K12",
 				"classDescription": null,
-				"matchingScore": 88.0
+				"matchingScore": 88.0,
+				"match":false
 			},
 			{
 				"classId": 1924,
@@ -58,7 +64,8 @@
 				"classCode": "AVENTA07-CHEMFULL-S2",
 				"classTitle": "Chemistry Block-Section 2*C",
 				"classDescription": null,
-				"matchingScore": 88.0
+				"matchingScore": 88.0,
+				"match":false
 			},
 			{
 				"classId": 259310,
@@ -66,7 +73,8 @@
 				"classCode": "CHEMb-HS-TX13-Master",
 				"classTitle": "Chemistry - HS/Part B - Texas",
 				"classDescription": null,
-				"matchingScore": 87.0
+				"matchingScore": 87.0,
+				"match":false
 			},
 			{
 				"classId": 259317,
@@ -74,7 +82,8 @@
 				"classCode": "CHEMx-HS-TX13-Master",
 				"classTitle": "Chemistry - HS/Block - Texas",
 				"classDescription": null,
-				"matchingScore": 87.0
+				"matchingScore": 87.0,
+				"match":false
 			},
 			{
 				"classId": 259321,
@@ -82,7 +91,8 @@
 				"classCode": "CHEMb-HS-FL13-Master",
 				"classTitle": "Chemistry - HS/Part B - Florida",
 				"classDescription": null,
-				"matchingScore": 87.0
+				"matchingScore": 87.0,
+				"match":false
 			},
 			{
 				"classId": 258053,
@@ -90,7 +100,8 @@
 				"classCode": "CHEMb-HS-A10-Master",
 				"classTitle": "Chemistry - HS/Part B",
 				"classDescription": null,
-				"matchingScore": 87.0
+				"matchingScore": 87.0,
+				"match":false
 			},
 			{
 				"classId": 4293,
@@ -98,7 +109,8 @@
 				"classCode": "AV08-CHEMBR-2",
 				"classTitle": "Chemistry B CR (Section 2)*C",
 				"classDescription": null,
-				"matchingScore": 87.0
+				"matchingScore": 87.0,
+				"match":false
 			},
 			{
 				"classId": 4292,
@@ -106,7 +118,8 @@
 				"classCode": "AV08-CHEMBR-1",
 				"classTitle": "Chemistry B CR (Section 1)*C",
 				"classDescription": null,
-				"matchingScore": 87.0
+				"matchingScore": 87.0,
+				"match":false
 			},
 			{
 				"classId": 3868,
@@ -114,7 +127,8 @@
 				"classCode": "AV08-CHEMFULL-2",
 				"classTitle": "Chemistry Block (Section 2)*C",
 				"classDescription": null,
-				"matchingScore": 87.0
+				"matchingScore": 87.0,
+				"match":false
 			},
 			{
 				"classId": 3867,
@@ -122,7 +136,8 @@
 				"classCode": "AV08-CHEMFULL-1",
 				"classTitle": "Chemistry Block (Section 1)*C",
 				"classDescription": null,
-				"matchingScore": 87.0
+				"matchingScore": 87.0,
+				"match":false
 			},
 			{
 				"classId": 595,
@@ -130,7 +145,8 @@
 				"classCode": "AVENTA07-CHEMSEM2",
 				"classTitle": "Chemistry Semester 2*C",
 				"classDescription": null,
-				"matchingScore": 87.0
+				"matchingScore": 87.0,
+				"match":false
 			},
 			{
 				"classId": 594,
@@ -138,7 +154,8 @@
 				"classCode": "AVENTA07-CHEMSEM1",
 				"classTitle": "Chemistry Semester 1*C",
 				"classDescription": null,
-				"matchingScore": 87.0
+				"matchingScore": 87.0,
+				"match":false
 			},
 			{
 				"classId": 257903,
@@ -146,7 +163,8 @@
 				"classCode": "CHEMa-HS-A10-Master",
 				"classTitle": "Chemistry - HS/Part A",
 				"classDescription": null,
-				"matchingScore": 87.0
+				"matchingScore": 87.0,
+				"match":false
 			},
 			{
 				"classId": 392,
@@ -154,7 +172,8 @@
 				"classCode": "AVENTA07-CHEMBR",
 				"classTitle": "Chemistry B Credit Recovery*C",
 				"classDescription": null,
-				"matchingScore": 87.0
+				"matchingScore": 87.0,
+				"match":false
 			}],
 			"success": true
 		},
